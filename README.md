@@ -1,6 +1,9 @@
-### Hi there 👋
+# Hello
 
-<!--
+## I'm Jules Holder,currently on 3rd year of BUT Informatique in Nancy
+### Web and Mobile Dev
+
+
 **KTelineSama/KTelineSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
